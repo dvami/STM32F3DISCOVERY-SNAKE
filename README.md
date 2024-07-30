@@ -5,4 +5,4 @@ STM32F3DISCOVERY</br>
 C programming language</br>
 project main code->Core->Src->main.c</br>
 project requirements:project.pdf</br>
-
+melody and keypad are handled in :-> Core->Src->stm32f3xx_it.c
