@@ -3,6 +3,6 @@ Technologies and Tools :</br>
 STM32CUBEMX</br>
 STM32F3DISCOVERY</br>
 C programming language</br>
-
+project main code->Core->Src->main.c</br>
 
 
